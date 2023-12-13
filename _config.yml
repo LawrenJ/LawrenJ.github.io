@@ -19,3 +19,4 @@ defaults:
     values:
       layout: "blog" # overrides previous default layout
       author: "Julian"
+      permalink: /:categories/:year/:month/:day/:title
