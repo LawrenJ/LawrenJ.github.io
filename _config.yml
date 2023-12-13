@@ -26,8 +26,8 @@ defaults:
   -
     scope:
       path: "posts"
-      type: "posts" # previously `post` in Jekyll 2.2.
+      type: "post" # previously `post` in Jekyll 2.2.
     values:
-      layout: "posts"
+      layout: "post"
       author: "Julian Lawrence"
       permalink: /:year/:month/:title/
