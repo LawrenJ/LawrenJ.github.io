@@ -4,3 +4,10 @@ plugins:
 
 title: Julian Lawrence
 description: Projects, Problems, and Blog Posts About My Programming Journey
+defaults:
+  -
+    scope:
+      path: "blog"
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
