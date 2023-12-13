@@ -29,4 +29,4 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
-      permalink: /:categories/:year/:month/:title/
+      permalink: /:year/:month/:title/
