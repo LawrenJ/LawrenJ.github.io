@@ -21,13 +21,10 @@ defaults:
       layout: "blog" # overrides previous default layout
       author: "Julian"
       permalink: /:path/:basename
-
-  defaults:
-  -
+-
     scope:
-      path: "posts"
-      type: "post" # previously `post` in Jekyll 2.2.
+      type: "post" # previously `page` in Jekyll 2.2.
     values:
-      layout: "post"
-      author: "Julian Lawrence"
-      permalink: /:year/:month/:title/
+      layout: "post" # overrides previous default layout
+      author: "Julian"
+      permalink: /:categories/:year/:month/:title
