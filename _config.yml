@@ -20,4 +20,4 @@ defaults:
     values:
       layout: "blog" # overrides previous default layout
       author: "Julian"
-      permalink: pretty
+      permalink: /:path/:basename
