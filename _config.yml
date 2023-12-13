@@ -12,6 +12,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      permalink: /:path/:basename
   -
     scope:
       path: "blog"
