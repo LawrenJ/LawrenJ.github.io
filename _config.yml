@@ -28,5 +28,5 @@ defaults:
       path: "posts"
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "default"
+      layout: "posts"
       permalink: /:year/:month/:title/
