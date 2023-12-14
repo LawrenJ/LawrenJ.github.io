@@ -1,5 +1,13 @@
 ---
 permalink: /blog/
 type: blog
+
 ---
-2023-12-13-How-to-write-post-in-github-pages.md
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
