@@ -8,7 +8,7 @@ description: Projects, Problems, and Blog Posts About My Programming Journey
 defaults:
   -
     scope:
-      path: "about"
+      path: "pages"
       type: "pages"
     values:
       layout: "default"
