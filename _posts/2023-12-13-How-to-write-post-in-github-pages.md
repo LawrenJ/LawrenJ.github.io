@@ -1,6 +1,6 @@
 ---
 title: "BBB"
-
+layout: default
 ---
 
 # Welcome #
