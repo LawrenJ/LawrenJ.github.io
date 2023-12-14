@@ -2,11 +2,4 @@
 permalink: /blog/
 type: blog
 ---
-<h1> fdsfdsfdsf</h1>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+2023-12-13-How-to-write-post-in-github-pages.md
