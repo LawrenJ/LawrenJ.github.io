@@ -24,7 +24,7 @@ defaults:
 -
     scope:
       path: ""
-      type: "post" # previously `page` in Jekyll 2.2.
+      type: "posts" # previously `page` in Jekyll 2.2.
     values:
       layout: "post" # overrides previous default layout
       author: "Julian"
