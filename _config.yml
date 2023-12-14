@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Julian Lawrence
+name: Website
 description: Projects, Problems, and Blog Posts About My Programming Journey
 
 defaults:
