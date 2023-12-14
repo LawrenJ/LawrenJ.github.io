@@ -1,5 +1,5 @@
 ---
 permalink: /blog/
-type: pages
+layout: blog
 
 ---
