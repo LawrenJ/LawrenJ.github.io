@@ -8,24 +8,16 @@ description: Projects, Problems, and Blog Posts About My Programming Journey
 defaults:
   -
     scope:
-      path: "pages"
+      path: ""
       type: "pages"
     values:
-      layout: "default"
+      layout: "blog"
       permalink: /:path/:basename
+
   -
     scope:
-      path: "blog"
-      type: "pages" # previously `page` in Jekyll 2.2.
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "blog" # overrides previous default layout
-      author: "Julian"
-      permalink: /:path/:basename
--
-    scope:
-      path: ""
-      type: "posts" # previously `page` in Jekyll 2.2.
-    values:
-      layout: "post" # overrides previous default layout
-      author: "Julian"
-      permalink: /:categories/:year/:month/:title
+      layout: "post"
+      permalink: /:categories/:year/:month/:day/:title/
