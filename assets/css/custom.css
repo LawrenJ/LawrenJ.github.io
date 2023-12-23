@@ -96,6 +96,7 @@ h1.title > span {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+    color: #9ac8f1;
 }
 
 a {
