@@ -96,10 +96,10 @@ h1.title > span {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: #DEFBFD;
-    background: -moz-linear-gradient(45deg, #DEFBFD 0%, #6495A4 0%, #052333 100%);
-    background: -webkit-linear-gradient(45deg, #DEFBFD 0%, #6495A4 0%, #052333 100%);
-    background: linear-gradient(45deg, #DEFBFD 0%, #6495A4 0%, #052333 100%);
+    background: #052333;
+    background: -moz-linear-gradient(-45deg, #052333 0%, #DEFBFD 50%, #0E608D 100%);
+    background: -webkit-linear-gradient(-45deg, #052333 0%, #DEFBFD 50%, #0E608D 100%);
+    background: linear-gradient(135deg, #052333 0%, #DEFBFD 50%, #0E608D 100%);
 }
 
 
