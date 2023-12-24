@@ -96,10 +96,10 @@ h1.title > span {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-color: #CE5937;
-    background-color: -moz-linear-gradient(-45deg, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
-    background-color: -webkit-linear-gradient(-45deg, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
-    background-color: linear-gradient(135deg, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+    background: #DEFBFD;
+    background: -moz-linear-gradient(45deg, #DEFBFD 0%, #6495A4 0%, #052333 100%);
+    background: -webkit-linear-gradient(45deg, #DEFBFD 0%, #6495A4 0%, #052333 100%);
+    background: linear-gradient(45deg, #DEFBFD 0%, #6495A4 0%, #052333 100%);
 }
 
 
