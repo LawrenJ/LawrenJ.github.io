@@ -2,8 +2,8 @@
 name: 
 title: 
 description: 
-logo: 'assets/images/Site Icon.png'
-favicon: 'assets/images/Site Icon.png'
+logo: 'assets/images/site-icon.png'
+favicon: 'assets/images/site-icon.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
