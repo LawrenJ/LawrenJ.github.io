@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Archive of Posts
+title: 
 permalink: /archive
 comments: false
 ---
