@@ -1,6 +1,6 @@
 ---
-layout: page
-title: 
+layout: archive
+title: Post Archive
 permalink: /archive
 comments: false
 ---
