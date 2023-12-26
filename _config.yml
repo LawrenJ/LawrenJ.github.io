@@ -41,6 +41,19 @@ kramdown:
     block:
       line_numbers: true
 
+# Excerpt
+---
+excerpt_separator: <!--more-->
+---
+{{ post.image }}
+Excerpt with multiple paragraphs
+
+Here's another paragraph in the excerpt.
+<!--more-->
+Out-of-excerpt
+
+-->
+
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
