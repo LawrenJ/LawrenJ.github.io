@@ -34,6 +34,7 @@ comments: false
   {% else %}
     <span>&laquo; Prev</span>
   {% endif %}
+  
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
@@ -52,3 +53,10 @@ comments: false
   {% endif %}
 </div>
 {% endif %}
+
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    {{ content }}
+</div>
