@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Post Archive
 permalink: /archive
 comments: false
