@@ -11,7 +11,7 @@ comments: false
 
     <div class="section-title">
 
-        <h2><span>Archive</span></h2>
+        <h2><span>All Stories</span></h2>
 
     </div>
 
