@@ -21,6 +21,11 @@ a:hover {
     text-decoration: none;
 }
 
+body {
+    background-color: #5D8AA8
+
+}    
+
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
