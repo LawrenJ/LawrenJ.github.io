@@ -7,4 +7,4 @@ image:
 description: 
 ---
 
-I am posting this to insure that everything is in order
+I am posting this to ensure that everything is in order. Every subsequent sentence is only there to provide padding for a significantly anemic blog post 
