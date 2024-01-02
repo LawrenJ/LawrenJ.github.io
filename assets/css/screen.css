@@ -302,6 +302,7 @@ span.post-read-more a:hover {
     display: inline-block;
     margin-top: 3px;
     cursor: pointer;
+    color: rgb(65, 93, 67, .09)
 }
 
 .mediumnavigation .navbar-brand img {
