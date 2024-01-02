@@ -21,10 +21,10 @@ a:hover {
     text-decoration: none;
 }
 
-/* body {
-    background-color: #5D8AA8
+ body {
+    background-color: #EEF9EF
 
-}*/
+}
 
 pre {
     -moz-box-sizing: border-box;
@@ -44,7 +44,7 @@ pre {
 }
 
 .mediumnavigation {
-    background: rgba(255, 255, 255, .97);
+    background: #709775);
     box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
     transition: top 0.2s ease-in-out;
 }
